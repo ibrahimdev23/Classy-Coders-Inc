@@ -3,7 +3,7 @@ class Employees {
     #isHired;
     static #allEmployees = [];
     
-    constructor(name, position, salary,){
+    constructor(name, position, salary){
         this.name = name;
         this.position = position;
         this.#salary = salary;
