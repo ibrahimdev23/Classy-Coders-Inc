@@ -17,8 +17,6 @@ class SalesPerson extends Employees {
   }
 }
 
-console.log("test");
-
 module.exports = {
   SalesPerson,
 };
